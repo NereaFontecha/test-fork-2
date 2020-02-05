@@ -1,0 +1,10 @@
+{
+  "sftp" : {
+    "host" : "207.154.194.199",
+    "user" : "root",
+    "port" : 22,
+    "pass" : "FUVnRcwPz3NQM32jGe",
+    "remotePath" : "/var/www/html/works/kbw"
+  },
+  "sketchFile" : "src/icons/icons.sketch"
+}
